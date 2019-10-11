@@ -1,0 +1,11 @@
+C:\Users\Shi\source\repos\BattleWarrior\BattleWarrior\bin\Debug\netcoreapp2.2\BattleWarrior.deps.json
+C:\Users\Shi\source\repos\BattleWarrior\BattleWarrior\bin\Debug\netcoreapp2.2\BattleWarrior.runtimeconfig.json
+C:\Users\Shi\source\repos\BattleWarrior\BattleWarrior\bin\Debug\netcoreapp2.2\BattleWarrior.runtimeconfig.dev.json
+C:\Users\Shi\source\repos\BattleWarrior\BattleWarrior\bin\Debug\netcoreapp2.2\BattleWarrior.dll
+C:\Users\Shi\source\repos\BattleWarrior\BattleWarrior\bin\Debug\netcoreapp2.2\BattleWarrior.pdb
+C:\Users\Shi\source\repos\BattleWarrior\BattleWarrior\obj\Debug\netcoreapp2.2\BattleWarrior.csprojAssemblyReference.cache
+C:\Users\Shi\source\repos\BattleWarrior\BattleWarrior\obj\Debug\netcoreapp2.2\BattleWarrior.csproj.CoreCompileInputs.cache
+C:\Users\Shi\source\repos\BattleWarrior\BattleWarrior\obj\Debug\netcoreapp2.2\BattleWarrior.AssemblyInfoInputs.cache
+C:\Users\Shi\source\repos\BattleWarrior\BattleWarrior\obj\Debug\netcoreapp2.2\BattleWarrior.AssemblyInfo.cs
+C:\Users\Shi\source\repos\BattleWarrior\BattleWarrior\obj\Debug\netcoreapp2.2\BattleWarrior.dll
+C:\Users\Shi\source\repos\BattleWarrior\BattleWarrior\obj\Debug\netcoreapp2.2\BattleWarrior.pdb
